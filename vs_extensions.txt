@@ -1,5 +1,9 @@
 Andromeda
 esLint
+auto rename tag
 Highlight matching tag
+code spell checker
+live server
+python for vscode
 Prettier
 Todo tree

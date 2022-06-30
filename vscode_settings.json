@@ -9,17 +9,17 @@
   "editor.bracketPairColorization.enabled": true,
   "editor.fontFamily": "Monaco",
   "editor.fontSize": 13,
+  "emmet.showExpandedAbbreviation": "never",
+  "emmet.triggerExpansionOnTab": true,
   "files.trimTrailingWhitespace": true,
   "javascript.suggest.enabled": true,
   "javascript.updateImportsOnFileMove.enabled": "never",
   "javascript.validate.enable": false,
-  "workbench.colorTheme": "Andromeda Bordered",
-  "workbench.startupEditor": "none",
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
-  "emmet.showExpandedAbbreviation": "never",
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": true,
+  "workbench.startupEditor": "none",
   "workbench.colorCustomizations": {
     "terminal.background": "#1F2022",
     "terminal.foreground": "#A3A3A3",
@@ -43,8 +43,12 @@
     "terminal.ansiYellow": "#B1951D",
     "tab.activeBorder": "#22ff0a",
     "tab.activeBorderTop": "#22ff0a",
-    "tab.activeBackground": "#2f462e"
+    "tab.activeBackground": "#2f462e",
+    "editorCursor.foreground": "#22ff0a"
   },
-  "window.zoomLevel": 2,
-  "editor.formatOnSave": true
+  "terminal.integrated.defaultProfile.osx": "bash",
+  "debug.javascript.autoAttachFilter": "disabled",
+  "workbench.colorTheme": "Andromeda",
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 2
 }
